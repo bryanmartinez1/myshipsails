@@ -1,3 +1,6 @@
+// Second attempt in My Ship Sails in C++. Using Ordered_Maps and Functions to remove DRY code
+// 200 Lines Less
+
 #include <iostream>
 #include <iomanip>
 #include <vector>

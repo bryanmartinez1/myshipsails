@@ -1,3 +1,4 @@
+# Below is what was initally created during my time learning Python ast home
 import random
 
 card_suits = ["S", "D", "H", "C"]
